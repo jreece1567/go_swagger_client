@@ -9,3 +9,5 @@ The swagger-specs used here are from:
 
 The demo program using the generated REST-client code is **restclient.go**.
 
+The **generate.sh** script generates the REST-client code used by **restclient.go**.
+
