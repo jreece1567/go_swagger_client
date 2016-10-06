@@ -1,0 +1,4 @@
+
+# Ignore Operating System artifacts
+.DS_Store
+
